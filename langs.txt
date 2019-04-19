@@ -6,6 +6,7 @@ Apex
 APL
 ASP
 Assembly
+Augeas
 AutoHotkey
 Awk
 Ballerina
@@ -89,6 +90,7 @@ Metal
 Monkey
 Nemerle
 NewLisp
+Nginx
 Nim
 Nix
 NSIS
@@ -100,6 +102,7 @@ OpenEdge ABL
 OpenSCAD
 Oz
 Pascal
+Pawn
 Perl
 Perl 6
 PHP
@@ -112,6 +115,7 @@ PostScript
 PowerShell
 Processing
 Prolog
+Protocol Buffer
 Puppet
 PureBasic
 PureScript
@@ -124,6 +128,7 @@ Ragel
 Rascal
 Rebol
 Red
+RenderScript
 REXX
 Rich Text Format
 Ring
@@ -137,12 +142,14 @@ Scala
 Scheme
 sed
 Shell
+Slash
 Smali
 Smalltalk
 Smarty
 SourcePawn
 SQLPL
 Squirrel
+Stan
 Standard ML
 Swift
 SystemVerilog
