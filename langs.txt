@@ -33,7 +33,6 @@ D
 Dart
 DIGITAL Command Language
 Dockerfile
-documentation_url
 Dogescript
 Elixir
 Elm
@@ -86,7 +85,6 @@ Mako
 Mathematica
 MATLAB
 Meson
-message
 Metal
 Monkey
 Nemerle
